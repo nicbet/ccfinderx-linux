@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq
+END
+msvcr71.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/msvcr71.dll
+END
+torqcommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/torqcommon.cpp
+END
+specialchars.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/specialchars.txt
+END
+torq.sln
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/torq.sln
+END
+specialchars.awk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/specialchars.awk
+END
+torqcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/torqcommon.h
+END
+interpreter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/interpreter.cpp
+END
+torq.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/torq.vcproj
+END
+specialchars.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/specialchars.h
+END
+torqparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/torqparser.h
+END
+interpreter.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/interpreter.h
+END
+texttoken.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/texttoken.cpp
+END
+torqtokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/torqtokenizer.h
+END
+torq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/torq.cpp
+END
+torqdll.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/torqdll.h
+END
+torqDebug.map
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/torqDebug.map
+END
+texttoken.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/texttoken.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/newengine
+END
+newengine.sln
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/newengine/newengine.sln
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/newengine/ReadMe.txt
+END
+newengine.exe
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/newengine/newengine.exe
+END
+newengine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/newengine/newengine.cpp
+END
+clonedetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/newengine/clonedetector.h
+END
+newengine.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/newengine/newengine.vcproj
+END

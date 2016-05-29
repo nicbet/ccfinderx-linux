@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/pyeasytorq
+END
+pyeasytorq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/pyeasytorq/pyeasytorq.cpp
+END
+pyeasytorq.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/pyeasytorq/pyeasytorq.vcproj
+END
+pyeasytorq.sln
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/pyeasytorq/pyeasytorq.sln
+END
+karmic.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/torq/pyeasytorq/karmic.mk
+END

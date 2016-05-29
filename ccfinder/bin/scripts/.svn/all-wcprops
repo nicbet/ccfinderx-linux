@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/branches/UNIX/ccfinder/bin/scripts
+END
+win32getshortname.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/branches/UNIX/ccfinder/bin/scripts/win32getshortname.py
+END
+threadingutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/branches/UNIX/ccfinder/bin/scripts/threadingutil.py
+END
+utility.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/branches/UNIX/ccfinder/bin/scripts/utility.py
+END
+testthreadingutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/branches/UNIX/ccfinder/bin/scripts/testthreadingutil.py
+END
+prescreening.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/branches/UNIX/ccfinder/bin/scripts/prescreening.py
+END
+preprocess.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/branches/UNIX/ccfinder/bin/scripts/preprocess.py
+END
+easytorq_helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/branches/UNIX/ccfinder/bin/scripts/easytorq_helper.py
+END
+moduleloadutility.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/branches/UNIX/ccfinder/bin/scripts/moduleloadutility.py
+END
+ccfxconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/branches/UNIX/ccfinder/bin/scripts/ccfxconfig.py
+END
+pythonversionchecker.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/branches/UNIX/ccfinder/bin/scripts/pythonversionchecker.py
+END

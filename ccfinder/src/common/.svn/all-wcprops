@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common
+END
+utf8support.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/utf8support.cpp
+END
+base64encoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/base64encoder.cpp
+END
+utf8support.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/utf8support.h
+END
+hash_set_includer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/hash_set_includer.h
+END
+base64encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/base64encoder.h
+END
+filestructwrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/filestructwrapper.h
+END
+datastructureonfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/datastructureonfile.h
+END
+win32streamhandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/win32streamhandle.h
+END
+allocaarray.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/allocaarray.h
+END
+win32util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/win32util.cpp
+END
+bitvector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/bitvector.cpp
+END
+bitcounttable.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/bitcounttable.h
+END
+win32util.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/win32util.h
+END
+bitvector.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/bitvector.h
+END
+hash_map_includer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/hash_map_includer.h
+END
+specialstringmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/specialstringmap.h
+END
+unportable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/unportable.cpp
+END
+argvbuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/argvbuilder.h
+END
+ffuncrenamer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/ffuncrenamer.h
+END
+unportable.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/common/unportable.h
+END

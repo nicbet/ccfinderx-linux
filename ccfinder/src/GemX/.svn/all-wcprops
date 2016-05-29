@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/GemX
+END
+utility_Picosel.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/GemX/utility_Picosel.h
+END
+buildjar_debug.bat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/GemX/buildjar_debug.bat
+END
+colors.json
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/GemX/colors.json
+END
+utility_Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/GemX/utility_Decoder.h
+END
+ccfinderx_CCFinderX.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/GemX/ccfinderx_CCFinderX.h
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/GemX/.classpath
+END
+makeCCFinderXHeader.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/GemX/makeCCFinderXHeader.bat
+END
+buildjar.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/GemX/buildjar.bat
+END
+gemxlib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/GemX/gemxlib.jar
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/GemX/.project
+END
+GemXMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/GemX/GemXMain.java
+END
+buildjar.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/GemX/buildjar.sh
+END

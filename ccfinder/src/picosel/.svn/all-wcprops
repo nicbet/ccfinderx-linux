@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/picosel
+END
+picosel.sln
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/picosel/picosel.sln
+END
+karmic.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/picosel/karmic.mk
+END
+picosel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/picosel/picosel.cpp
+END
+picosel.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/picosel/picosel.vcproj
+END

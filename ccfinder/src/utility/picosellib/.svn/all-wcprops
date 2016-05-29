@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/utility/picosellib
+END
+picosellib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/utility/picosellib/picosellib.vcproj
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/utility/picosellib/stdafx.cpp
+END
+karmic.mk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/utility/picosellib/karmic.mk
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/utility/picosellib/stdafx.h
+END
+picosellib.sln
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/utility/picosellib/picosellib.sln
+END

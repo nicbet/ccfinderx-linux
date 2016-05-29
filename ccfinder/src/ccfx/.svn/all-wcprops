@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx
+END
+ccfx.sln
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/ccfx.sln
+END
+clonedataassembler.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/clonedataassembler.h
+END
+filteringmain.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/filteringmain.h
+END
+metricmain.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/metricmain.h
+END
+prettyprintermain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/prettyprintermain.cpp
+END
+ccfxcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/ccfxcommon.h
+END
+ccfx.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/ccfx.vcproj
+END
+ccfx.rc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/ccfx.rc
+END
+shapedfragmentcalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/shapedfragmentcalculator.h
+END
+logo2.ico
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/logo2.ico
+END
+logo3.ico
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/logo3.ico
+END
+rawclonepairdata.cpp.cpp.2_0_0_2.default.ccfxprep
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/rawclonepairdata.cpp.cpp.2_0_0_2.default.ccfxprep
+END
+transformermain.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/transformermain.h
+END
+ccfx_prep_scripts.ini
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/ccfx_prep_scripts.ini
+END
+prettyprintmain.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/prettyprintmain.h
+END
+ccfxconstants.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/ccfxconstants.cpp
+END
+rawclonepairdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/rawclonepairdata.cpp
+END
+ccfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/ccfx.cpp
+END
+ccfxconstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/ccfxconstants.h
+END
+rawclonepairdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/rawclonepairdata.h
+END
+preprocessorinvoker.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/preprocessorinvoker.h
+END
+console.ico
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/console.ico
+END
+findfilemain.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/findfilemain.h
+END
+karmic.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/karmic.mk
+END
+prettyprintermain.cpp.cpp.2_0_0_2.default.ccfxprep
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/prettyprintermain.cpp.cpp.2_0_0_2.default.ccfxprep
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/resource.h
+END
+ccfxcommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/ccfxcommon.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/branches/UNIX/ccfinder/src/ccfx/Makefile
+END
